@@ -46,3 +46,10 @@ input[type=text] {
   border-color: #ff0000 !important;
 }
 
+.todotask {
+  color: #66665D;
+  list-style-type: none;
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #DBDBD3;
+}
